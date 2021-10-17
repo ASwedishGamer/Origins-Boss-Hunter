@@ -1,0 +1,21 @@
+{
+	"icon": {
+		"item": "minecraft:diamond_sword"
+	},
+	"order": 1,
+	"impact": 3,
+	"upgrades": [
+		{
+		"condition": "boss_adv:kill_wither",
+		"origin": "bosshunter:bosshunter_wither",
+		"announcement": "Slow Falling unlocked"
+		},
+		{
+			"condition": "boss_adv:kill_guardian",
+			"origin": "bosshunter:guardian",
+			"announcement": "Slow Falling unlocked"
+		}
+	],
+	"name": "Boss Hunter",
+	"description": "A different breed of human born for the single purpose of killing Bosses."
+}
