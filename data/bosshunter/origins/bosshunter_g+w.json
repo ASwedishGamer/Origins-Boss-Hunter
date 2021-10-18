@@ -1,16 +1,14 @@
 {
 	"powers": [
+        "bosshunter:regeneration",
+		"bosshunter:slow_falling",
         "bosshunter:resistance"
 	],
 	"upgrades": [
 		{
 		"condition": "end/kill_dragon",
-		"origin": "bosshunter:bosshunter_d+g",
+		"origin": "bosshunter:bosshunter_d+g+w",
 		"announcement": "Strength unlocked"
-		},
-		{
-		"condition": "bosshunter:kill_wither",
-		"origin": "bosshunter:bosshunter_g+w"
 		}
 	],
 	"icon": "minecraft:diamond_sword",

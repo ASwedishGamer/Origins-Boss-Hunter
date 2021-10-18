@@ -1,7 +1,19 @@
 {
 	"powers": [
         "bosshunter:strength"
-	],
+		],
+		"upgrades": [
+			{
+			"condition": "bosshunter:kill_guardian",
+			"origin": "bosshunter:bosshunter_d+g",
+			"announcement": "Resistance unlocked"
+			},
+			{
+			"condition":"bosshunter:kill_wither",
+			"origin": "bosshunter:bosshunter_d+w",
+			"announcement":"Slow Falling and Regeneration unlocked"
+			}
+		],
 	"icon": "minecraft:diamond_sword",
 	"order": 2,
 	"impact": 3,

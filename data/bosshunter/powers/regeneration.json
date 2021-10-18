@@ -2,13 +2,15 @@
 	"type": "origins:stacking_status_effect",
 	"min_stacks": 1,
 	"max_stacks": 2,
-	"duration_per_stack": 20,
+	"duration_per_stack": 40,
 	"effect": {
 		"effect": "minecraft:regeneration",
 		"duration": 20,
-		"amplifier": 0,
+		"amplifier": 2,
 		"is_ambient": false,
 		"show_particles": false,
 		"show_icon": false
-	}
+	},
+	"key": "primary",
+	"cooldown": 100
 }

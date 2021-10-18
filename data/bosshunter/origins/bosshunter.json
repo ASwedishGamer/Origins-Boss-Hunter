@@ -8,12 +8,17 @@
 		{
 		"condition": "boss_adv:kill_wither",
 		"origin": "bosshunter:bosshunter_wither",
-		"announcement": "Slow Falling unlocked"
+		"announcement": "Slow Falling and Regeneration unlocked"
 		},
 		{
-			"condition": "boss_adv:kill_guardian",
-			"origin": "bosshunter:guardian",
-			"announcement": "Slow Falling unlocked"
+		"condition": "boss_adv:kill_guardian",
+		"origin": "bosshunter:bosshunter_guardian",
+		"announcement": "Resistance unlocked"
+		},
+		{
+		"condition": "end/kill_dragon",
+		"origin": "bosshunter:bosshunter_dragon",
+		"announcement": "Strength unlocked"
 		}
 	],
 	"name": "Boss Hunter",

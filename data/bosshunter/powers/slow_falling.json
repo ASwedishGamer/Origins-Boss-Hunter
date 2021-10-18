@@ -10,5 +10,9 @@
 		"is_ambient": false,
 		"show_particles": false,
 		"show_icon": false
+	},
+	"key": {
+		"key": "key.sneak",
+		"continuous": true
 	}
 }
