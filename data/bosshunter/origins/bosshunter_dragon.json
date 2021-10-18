@@ -10,7 +10,7 @@
 			},
 			{
 			"condition":"boss_adv:kill_wither",
-			"origin": "bosshunter:bosshunter_d+w",
+			"origin": "bosshunter:bosshunter_d_w",
 			"announcement":"Slow Falling and Regeneration unlocked"
 			}
 		],

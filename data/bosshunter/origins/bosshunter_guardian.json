@@ -5,7 +5,7 @@
 	"upgrades": [
 		{
 		"condition": "minecraft:end/kill_dragon",
-		"origin": "bosshunter:bosshunter_d+g",
+		"origin": "bosshunter:bosshunter_d_g",
 		"announcement": "Strength unlocked"
 		},
 		{
