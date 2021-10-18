@@ -14,5 +14,7 @@
 	"key": {
 		"key": "key.sneak",
 		"continuous": true
-	}
+	},
+	"name": "placeholder",
+	"description": "placeholder"
 }

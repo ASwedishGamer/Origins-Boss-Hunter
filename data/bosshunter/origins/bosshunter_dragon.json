@@ -5,17 +5,17 @@
 		"upgrades": [
 			{
 			"condition": "bosshunter:kill_guardian",
-			"origin": "bosshunter:bosshunter_d+g",
+			"origin": "bosshunter:bosshunter_d_g",
 			"announcement": "Resistance unlocked"
 			},
 			{
-			"condition":"bosshunter:kill_wither",
+			"condition":"boss_adv:kill_wither",
 			"origin": "bosshunter:bosshunter_d+w",
 			"announcement":"Slow Falling and Regeneration unlocked"
 			}
 		],
 	"icon": "minecraft:diamond_sword",
-	"order": 2,
+	"order": 13,
 	"impact": 3,
     "unchoosable": true,
 	"name": "Boss hunter",

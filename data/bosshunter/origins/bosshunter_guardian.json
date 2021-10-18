@@ -4,17 +4,17 @@
 	],
 	"upgrades": [
 		{
-		"condition": "end/kill_dragon",
+		"condition": "minecraft:end/kill_dragon",
 		"origin": "bosshunter:bosshunter_d+g",
 		"announcement": "Strength unlocked"
 		},
 		{
-		"condition": "bosshunter:kill_wither",
-		"origin": "bosshunter:bosshunter_g+w"
+		"condition": "boss_adv:kill_wither",
+		"origin": "bosshunter:bosshunter_g_w"
 		}
 	],
 	"icon": "minecraft:diamond_sword",
-	"order": 2,
+	"order": 15,
 	"impact": 3,
     "unchoosable": true,
 	"name": "Boss hunter",

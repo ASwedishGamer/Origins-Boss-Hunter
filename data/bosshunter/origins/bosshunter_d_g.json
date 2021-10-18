@@ -5,13 +5,13 @@
 	],
 	"upgrades": [
 		{
-		"condition": "bosshunter:kill_wither",
-		"origin": "bosshunter:bosshunter_d+g+w",
+		"condition": "boss_adv:kill_wither",
+		"origin": "bosshunter:bosshunter_d_g_w",
 		"announcement": "Slow Falling and Regeneration unlocked"
 		}
 	],
 	"icon": "minecraft:diamond_sword",
-	"order": 2,
+	"order": 10,
 	"impact": 3,
     "unchoosable": true,
 	"name": "Boss hunter",

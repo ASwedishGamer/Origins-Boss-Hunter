@@ -6,17 +6,17 @@
 	"upgrades": [
 		{
 		"condition": "boss_adv:kill_guardian",
-		"origin": "bosshunter:bosshunter_g+w",
+		"origin": "bosshunter:bosshunter_g_w",
 		"announcement": "Resistance unlocked"
 		},
 		{
-		"condition": "end/kill_dragon",
-		"origin": "bosshunter:bosshunter_d+w",
+		"condition": "_minecraft:end/kill_dragon",
+		"origin": "bosshunter:bosshunter_d_w",
 		"announcement": "Strength unlocked"
 		}
 	],
 	"icon": "minecraft:diamond_sword",
-	"order": 2,
+	"order": 16,
 	"impact": 3,
     "unchoosable": true,
 	"name": "Boss hunter",

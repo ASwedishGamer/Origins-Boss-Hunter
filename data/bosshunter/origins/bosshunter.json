@@ -1,9 +1,4 @@
 {
-	"icon": {
-		"item": "minecraft:diamond_sword"
-	},
-	"order": 1,
-	"impact": 3,
 	"upgrades": [
 		{
 		"condition": "boss_adv:kill_wither",
@@ -16,11 +11,15 @@
 		"announcement": "Resistance unlocked"
 		},
 		{
-		"condition": "end/kill_dragon",
+		"condition": "minecraft:end/kill_dragon",
 		"origin": "bosshunter:bosshunter_dragon",
 		"announcement": "Strength unlocked"
 		}
 	],
-	"name": "Boss Hunter",
-	"description": "A different breed of human born for the single purpose of killing Bosses."
+	"icon": "minecraft:diamond_sword",
+	"order": 17,
+	"impact": 3,
+    "unchoosable": false,
+	"name": "Boss hunter",
+	"description": "A different breed of human born for the single purpose of killing Bosses"
 }

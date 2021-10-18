@@ -12,5 +12,7 @@
 		"show_icon": false
 	},
 	"key": "primary",
-	"cooldown": 100
+	"cooldown": 100,
+	"name": "placeholder",
+	"description": "placeholder"
 }

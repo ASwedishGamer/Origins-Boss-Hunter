@@ -2,11 +2,17 @@
 	"powers": [
         "bosshunter:regeneration",
 		"bosshunter:slow_falling",
-        "bosshunter:resistance",
-        "bosshunter:strength"
+        "bosshunter:resistance"
+	],
+	"upgrades": [
+		{
+		"condition": "minecraft:end/kill_dragon",
+		"origin": "bosshunter:bosshunter_d_g_w",
+		"announcement": "Strength unlocked"
+		}
 	],
 	"icon": "minecraft:diamond_sword",
-	"order": 2,
+	"order": 14,
 	"impact": 3,
     "unchoosable": true,
 	"name": "Boss hunter",

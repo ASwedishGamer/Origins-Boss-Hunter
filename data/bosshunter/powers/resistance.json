@@ -10,5 +10,7 @@
 		"is_ambient": false,
 		"show_particles": false,
 		"show_icon": false
-	}
+	},
+	"name": "placeholder",
+	"description": "placeholder"
 }

@@ -2,11 +2,11 @@
 	"replace": false,
 	"origins": [
 		"bosshunter:bosshunter",
-		"bosshunter:bosshunter_d+g",
-		"bosshunter:bosshunter_d+g+w",
-		"bosshunter:bosshunter_d+w",
+		"bosshunter:bosshunter_d_g",
+		"bosshunter:bosshunter_d_g_w",
+		"bosshunter:bosshunter_d_w",
 		"bosshunter:bosshunter_dragon",
-		"bosshunter:bosshunter_g+w",
+		"bosshunter:bosshunter_g_w",
 		"bosshunter:bosshunter_guardian",
 		"bosshunter:bosshunter_wither"
 	]
