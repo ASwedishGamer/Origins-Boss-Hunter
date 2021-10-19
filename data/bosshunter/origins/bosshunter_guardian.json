@@ -1,6 +1,8 @@
 {
 	"powers": [
-        "bosshunter:resistance"
+        "bosshunter:resistance",
+		"bosshunter:hunger",
+		"bosshunter:fire"
 	],
 	"upgrades": [
 		{
@@ -10,7 +12,8 @@
 		},
 		{
 		"condition": "boss_adv:kill_wither",
-		"origin": "bosshunter:bosshunter_g_w"
+		"origin": "bosshunter:bosshunter_g_w",
+		"announcement":"Slow falling and regenration unlocked"
 		}
 	],
 	"icon": "minecraft:diamond_sword",

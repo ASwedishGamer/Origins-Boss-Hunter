@@ -1,4 +1,8 @@
 {
+	"powers": [
+		"bosshunter:hunger",
+		"bosshunter:fire"
+	],
 	"upgrades": [
 		{
 		"condition": "boss_adv:kill_wither",

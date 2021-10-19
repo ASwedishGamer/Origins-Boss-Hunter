@@ -1,18 +1,25 @@
 {
-	"type": "origins:stacking_status_effect",
-	"min_stacks": 1,
-	"max_stacks": 2,
-	"duration_per_stack": 40,
-	"effect": {
-		"effect": "minecraft:regeneration",
-		"duration": 20,
-		"amplifier": 2,
-		"is_ambient": false,
-		"show_particles": false,
-		"show_icon": false
-	},
-	"key": "primary",
-	"cooldown": 100,
-	"name": "placeholder",
-	"description": "placeholder"
+    "type": "origins:active_self",
+    "entity_action": {
+		"type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:regeneration",
+            "duration": 40,
+            "amplifier": 1,
+			"is_ambient": false,
+			"show_particles": false,
+			"show_icon": false
+        }
+    },
+    "key": {
+        "key": "key.origins.primary_active"
+    },
+    "cooldown": 500,
+    "hud_render": {
+        "should_render": true,
+		"sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+		"bar_index": 4
+    },
+    "name": "regen",
+    "description": "regen"
 }

@@ -1,6 +1,8 @@
 {
 	"powers": [
-        "bosshunter:strength"
+        "bosshunter:strength",
+		"bosshunter:hunger",
+		"bosshunter:fire"
 		],
 		"upgrades": [
 			{

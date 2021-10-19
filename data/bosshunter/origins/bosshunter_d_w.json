@@ -2,7 +2,9 @@
 	"powers": [
         "bosshunter:regeneration",
 		"bosshunter:slow_falling",
-        "bosshunter:strength"
+        "bosshunter:strength",
+		"bosshunter:hunger",
+		"bosshunter:fire"
 	],
 	"upgrades": [
 		{

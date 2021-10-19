@@ -1,0 +1,13 @@
+{
+	"type": "origins:modify_damage_taken",
+	"damage_condition": {
+		"type": "origins:fire"
+	},
+	"modifier": {
+		"name": "Extortion",
+		"operation": "multiply_base",
+		"value": 2
+	},
+	"name": "Extortion",
+	"description": "Due to trying to fight the DEVIL and losing you know are scared of fire making you take double damage to all fire(including lava)."
+}

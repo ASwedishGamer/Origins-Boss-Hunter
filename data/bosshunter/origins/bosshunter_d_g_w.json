@@ -3,7 +3,9 @@
         "bosshunter:regeneration",
 		"bosshunter:slow_falling",
         "bosshunter:resistance",
-        "bosshunter:strength"
+        "bosshunter:strength",
+		"bosshunter:hunger",
+		"bosshunter:fire"
 	],
 	"icon": "minecraft:diamond_sword",
 	"order": 11,

@@ -5,12 +5,12 @@
 	"duration_per_stack": 20,
 	"effect": {
 		"effect": "minecraft:resistance",
-		"duration": 20,
+		"duration": 1,
 		"amplifier": 1,
 		"is_ambient": false,
 		"show_particles": false,
 		"show_icon": false
 	},
-	"name": "placeholder",
-	"description": "placeholder"
+	"name": "resistance",
+	"description": "resistance"
 }
